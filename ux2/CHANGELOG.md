@@ -1,5 +1,35 @@
 # Changelog
 
+## [0.2.0](https://github.com/C0D3-M4513R/ux2/compare/ux2-v0.8.3...ux2-v0.2.0) (2024-02-03)
+
+
+### Features
+
+* Compile-time arithmetic ([59669ca](https://github.com/C0D3-M4513R/ux2/commit/59669ca492904263c738aa47bbc51ad58142b67d))
+* from_str_radix ([3cbb752](https://github.com/C0D3-M4513R/ux2/commit/3cbb75246be5fd8a95ec5f790f73a9ac2a122928))
+* num-traits ([6533b9f](https://github.com/C0D3-M4513R/ux2/commit/6533b9f0a9facc4f72005e34620059325cbf086d))
+* Serde ([a7ef7d6](https://github.com/C0D3-M4513R/ux2/commit/a7ef7d604684d782970fb7cae7ecb648faf12dc8))
+* to/from be/le/ne bytes ([57c70ee](https://github.com/C0D3-M4513R/ux2/commit/57c70ee4eeff87fcff0fdd35579de1712a69e647))
+* Update ux2-macro version ([1ec6819](https://github.com/C0D3-M4513R/ux2/commit/1ec6819226d56106670d3dd5220ab90c6d55c79b))
+* Update ux2-macro version ([4ef7b31](https://github.com/C0D3-M4513R/ux2/commit/4ef7b311fedde4afc35255c9242e7d21302f3930))
+* Update ux2-macro version ([dbd4e91](https://github.com/C0D3-M4513R/ux2/commit/dbd4e91e6eb6c6a06e50aef0a6ef236d196213ef))
+* Update ux2-macro version ([8d41ca7](https://github.com/C0D3-M4513R/ux2/commit/8d41ca70f8957995941115d0bf09ab2169572096))
+* Update ux2-macro version ([6630f6e](https://github.com/C0D3-M4513R/ux2/commit/6630f6e69daca0954bf417d5a2456f679c6bfcaf))
+* Update ux2-macro version ([6a55ad5](https://github.com/C0D3-M4513R/ux2/commit/6a55ad5020cf8a1893dec13a70d647b519a7c5cd))
+* Update ux2-macro version ([98f99d4](https://github.com/C0D3-M4513R/ux2/commit/98f99d40e46f24e5f97613ab1635e15c4874692b))
+
+
+### Bug Fixes
+
+* Changed default to fix doc.rs build ([d0cab69](https://github.com/C0D3-M4513R/ux2/commit/d0cab69b1fd61395cc27bbfaa4d0d1d6eedc7f37))
+* Changed default to fix doc.rs build ([29ad19e](https://github.com/C0D3-M4513R/ux2/commit/29ad19e2381a668b66b89fba73477d8471cdd5ce))
+* CI fixes and refactor ([bec2449](https://github.com/C0D3-M4513R/ux2/commit/bec2449d0984458689c91a5bbcc623330ff9f079))
+
+
+### Miscellaneous Chores
+
+* release 0.2.0 ([71d2c37](https://github.com/C0D3-M4513R/ux2/commit/71d2c37f842ce3d84fe46272c15ead5cfbd10b0f))
+
 ## [Upcoming Release](https://github.com/JonathanWoollett-Light/ux2/compare/ux2-v0.8.3...830fb4867373733b9d61ce17a73f388d2d3836ae) (2024-02-02)
 
 
