@@ -88,8 +88,8 @@ macro_rules! emath_number_impl {
     ($ty:ty, $ident:ident) => {
         impl $ident::Numeric for $ty {
             const INTEGRAL: bool = true;
-            const MIN: Self = $ty::MIN;
-            const MAX: Self = $ty::MAX;
+            const MIN: Self = <$ty>::MIN;
+            const MAX: Self = <$ty>::MAX;
 
             #[inline(always)]
             fn to_f64(self) -> f64 {
