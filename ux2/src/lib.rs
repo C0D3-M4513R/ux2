@@ -98,7 +98,7 @@ macro_rules! emath_number_impl {
 
             #[inline(always)]
             fn from_f64(num: f64) -> Self {
-                Self::new(num.into_inner())
+                Self::new_mask(num as _)
             }
         }
     }
