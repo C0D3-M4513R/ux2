@@ -31,7 +31,7 @@ emath_0_27 = {package = "emath", version = "0.27", optional = true}
 
 [dev-dependencies]
 criterion = "0.5.1"
-rand = "0.8.5"
+rand = "0.9.3"
 
 [[bench]]
 name = "benchmark"
